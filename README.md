@@ -15,9 +15,19 @@ This is a simple console sociability test
 
 1) Launch your console
 
-2) Run main.rb. To do this you should type `ruby main.rb` and press `Enter`
+2) Run main.rb. To do this you should be in program directory:
 
-3) Follow the instructions on the screen
+
+`.../sociability_test>`
+
+
+3) Type `ruby main.rb` 
+
+(It looks like `.../sociability_test> ruby main.rb` )
+
+4) Press `Enter`
+
+5) Follow the instructions on the screen
 
 
 
