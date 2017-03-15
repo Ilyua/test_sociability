@@ -1,5 +1,5 @@
-require "./test"
-require "./result"
+require_relative "lib/test"
+require_relative "lib/result"
 
 test = Test.new
 test.start
