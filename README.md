@@ -1,4 +1,4 @@
-The North Center Positronics (c)
+The North Centre Positronics  (Ltd)
 
 Sociability test
 ================
@@ -15,8 +15,8 @@ How to use?
 
 1) Launch your console
 
-2) You need Ruby interpreter on your computer (version 2.3+)
-Run main.rb. To do this you should be in program directory:
+2) You need Ruby interpreter on your computer (version 2.3+). Firstly,
+run main.rb. To do this you should be in program directory:
 
 `.../sociability_test>`
 
