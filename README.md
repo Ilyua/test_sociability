@@ -5,21 +5,20 @@ Sociability test
 
 
 
-***What is this?***
+What is this?
 ------------------
 This is a simple console sociability test
 
 
-***How to use?***
+How to use?
 -----------------
 
 1) Launch your console
 
-2) Run main.rb. To do this you should be in program directory:
-
+2) You need Ruby interpreter on your computer (version 2.3+)
+Run main.rb. To do this you should be in program directory:
 
 `.../sociability_test>`
-
 
 3) Type `ruby main.rb` 
 
