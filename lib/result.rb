@@ -8,7 +8,7 @@ class Result
   def print_result
     puts "Ваш результат:"
 
-    case @yes_answers*2 + @sometimes_answers
+    case @yes_answers * 2 + @sometimes_answers
     when 0..3
       puts @results[6]
     when 4..8
